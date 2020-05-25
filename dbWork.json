@@ -1,26 +1,63 @@
 [
   {
     "id": 1,
-    "name": "dggsdg",
-    "haract": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
-    "price": 10000
+    "name": "Сборка №101647",
+    "haract": "Характеристика: 4 гб ОЗУ,AMD A4-4000,HHD 320 гб",
+    "price": 12507
   },
     {
-    "id": 1,
-    "name": "dggsdg",
-    "haract": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
-    "price": 10000
+    "id": 2,
+    "name": "Сборка №283817",
+    "haract": "Характеристика: 4 гб ОЗУ,AMD Athlon ™ 200GE,HHD 500 гб",
+    "price": 13738
   },
     {
-    "id": 1,
-    "name": "dggsdg",
-    "haract": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
-    "price": 10000
+    "id": 3,
+    "name": "Сборка №112778",
+    "haract": "Характеристика: 8 гб ОЗУ,INTEL Core™ i3 9100,HHD 320 гб",
+    "price": 16121
   },
     {
-    "id": 1,
-    "name": "dggsdg",
-    "haract": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
-    "price": 10000
-  }
+    "id": 4,
+    "name": "Сборка №283315",
+    "haract": "Характеристика: 4 гб ОЗУ,INTEL Celeron G3900,SDD 128 гб",
+    "price": 25571
+  },
+  {
+    "id": 5,
+    "name": "Сборка №97101",
+    "haract": "Характеристика: 4 гб ОЗУ,INTEL Pentium G4400,SDD 250 гб",
+    "price": 28191
+  },
+  {
+    "id": 6,
+    "name": "Сборка №174664",
+    "haract": "Характеристика: 8 гб ОЗУ,INTEL Core™ i3 6300,SDD 250 гб",
+    "price": 31639
+  },
+   {
+    "id": 7,
+    "name": "Сборка №174664",
+    "haract": "Характеристика: 4 гб ОЗУ,INTEL Core™ i5 7500,SDD 125 гб",
+    "price": 31996
+  }, 
+  {
+    "id": 8,
+    "name": "Сборка №182071",
+    "haract": "Характеристика: 8 гб ОЗУ,INTEL Core™ i5 7400,SDD 125 гб",
+    "price": 34323
+  },
+   {
+    "id": 9,
+    "name": "№176990",
+    "haract": "Характеристика: 16 гб ОЗУ,INTEL Core™ i5 8400,SDD 1 тб",
+    "price": 56386
+  },
+  {
+    "id": 10,
+    "name": "№290309",
+    "haract": "Характеристика: 16 гб ОЗУ,INTEL Core™ i5 9600KF,SDD 512 гб",
+    "price": 56386
+  },
+  
   ]
